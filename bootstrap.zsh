@@ -127,6 +127,7 @@ cli_tools=(
   "gh"
   "node"
   "tree"
+  "tmux"
 )
 
 for tool in "${cli_tools[@]}"; do
